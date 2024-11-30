@@ -1,0 +1,18 @@
+body{
+    font-family: "Nunito", sans-serif;
+}
+
+header{
+    background-image: linear-gradient(180deg,#dcf1f3,#ebeec5,#dcf1f3);
+}
+
+.navbar-brand,
+.text-primary{
+    color: #000000 !important;
+}
+
+.btn-bg{
+    background-color: #8b2d77;
+    
+    color: #fff;
+}
